@@ -3,14 +3,17 @@
 }
 
 .header {
-	background-image: url("/images/IMG_1638.jpeg");
+	background-color: #16d8a9;
+	height: 150px;
 }
 
 h1 {
 	text-align: center;
 	color: #fff;
-	background-color: #16d8a9;
-	margin: 20px 0;
+}
+
+.personal-id {
+	background-image: url("/images/IMG_1638.jpeg");
 }
 
 a {

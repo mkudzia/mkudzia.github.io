@@ -3,12 +3,14 @@
 }
 
 .header {
-	background-color: #16d8a9;
-	color: #fff;
+	background-image: url("/images/IMG_1638.jpeg");
 }
 
 h1 {
 	text-align: center;
+	color: #fff;
+	background-color: #16d8a9;
+	margin: 20px 0;
 }
 
 a {

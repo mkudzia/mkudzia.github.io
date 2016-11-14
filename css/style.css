@@ -2,6 +2,16 @@
 	margin: 0 .5em;
 }
 
+nav ul, footer ul {
+	padding: 0px;
+	list-style: none;
+}
+
+nav ul li, footer ul li {
+	display: inline;
+	margin-right: 20px;
+}
+
 .header {
 	background-color: #16d8a9;
 	height: 150px;
@@ -18,10 +28,23 @@ h1 {
 
 a {
 	color: #4816d8;
-} 
+}
+
+a.hover {
+	text-decoration: underline;
+}
 
 ul.list-group li a {
 	color: #4816d8;
+}
+
+ul.posts {
+	margin: 20px auto 40ps;
+	font-size: 1.5em;
+}
+
+ul.post li {
+	list-style: none;
 }
 
 li.list-group-item {

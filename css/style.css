@@ -29,7 +29,7 @@ h1 {
 }
 
 p {
-    font-size: 1.5em;
+    font-size: 1.4em;
     line-height: 1.4em;
     color: #333;
 }
@@ -55,4 +55,5 @@ ul.posts li {
 
 ul.nobullets li {
     list-style: none;
+    font-size: 1.4em;
 }

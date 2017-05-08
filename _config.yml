@@ -1,3 +1,7 @@
-name: Megan Kudzia, Digital Scholarship Technology Librarian
-markdown: kramdown
+#Site settings
+title: Megan Kudzia
+name: Megan Kudzia
 permalink: /blog/:year/:month/:day/:title
+
+# Build settings
+markdown: kramdown

@@ -1,3 +1,6 @@
-
+_site
 .DS_Store
 .trashes
+.sass-cache
+node_modules
+_drafts

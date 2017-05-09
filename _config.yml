@@ -1,7 +1,37 @@
-#Site settings
-title: Megan Kudzia
+# Site settings
+title: Megan Kudzia 
+description: "My personal website"
 name: Megan Kudzia
-permalink: /blog/:year/:month/:day/:title
+baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
+url: "http://mkudzia.github.io/"
+
+# User settings
 
 # Build settings
 markdown: kramdown
+permalink: /:title/
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+links:
+  - title: home
+    url: /
+  - title: my posts
+    url: /posts
+  - title: cv
+    url: /cv
+  - title: about me
+    url: /about
+# projects in header index
+projects:
+  - name: transcriptinator
+    url: https://github.com/mkudzia/transcriptinator
+
+# excludes - check whether this is necessary?
+exclude: ['package.json', 'src', 'node_modules']

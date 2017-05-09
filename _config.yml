@@ -10,7 +10,7 @@ username: Megan Kudzia
 user_description: Digital Scholarship Librarian
 twitter_username: mkudzia
 github_username: mkudzia
-email: kudzia@msu.edu
+# email: kudzia@msu.edu
 
 # Build settings
 markdown: kramdown

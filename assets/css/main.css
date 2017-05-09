@@ -1366,3 +1366,16 @@ p.subheader {
 	margin-bottom: 5px;
 	font-style: italic;
 }
+
+p.sub-subheader {
+	margin-bottom: 5px;
+	font-size: 16px;
+}
+
+h3.cv {
+	margin-bottom: 5px;
+}
+
+ul.nobullets li {
+	list-style: none;
+}

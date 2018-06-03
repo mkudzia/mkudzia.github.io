@@ -23,6 +23,10 @@ h1 {
     margin: .67em 0
 }
 
+p {
+    margin: 0 auto 0.75rem;
+}
+
 figcaption,
 figure,
 main {

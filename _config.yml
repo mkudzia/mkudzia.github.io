@@ -27,16 +27,20 @@ compress_html:
 links:
   - title: home
     url: /
-  - title: my posts
-    url: /posts
+  # - title: my posts
+  #   url: /posts
   - title: cv
     url: /cv
   - title: about me
     url: /about
 # projects in header index
 projects:
-  - name: transcriptinator
+  - name: Transcriptinator
     url: https://github.com/mkudzia/transcriptinator
+  - name: ILiADS theme
+    url: https://github.com/mkudzia/iliads_theme
+  - name: Code4Lib 2016 Workshop (with Robin Dean)
+    url: https://github.com/mkudzia/c4l-workshop-2016
 
 # excludes - check whether this is necessary?
 exclude: ['package.json', 'src', 'node_modules']

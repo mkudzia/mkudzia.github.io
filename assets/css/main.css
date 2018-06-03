@@ -1167,7 +1167,7 @@ body {
 .post-content iframe {
     max-width: 50rem;
     padding: 0 1.25rem;
-    margin: 0 auto 1.875rem;
+    margin: 0 auto 1rem;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;

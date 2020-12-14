@@ -840,9 +840,6 @@ body.search-overlay:after {
     transform: translateX(-10px)
 }
 
-.cv h3 {
-  padding-top: 1rem;
-}
 
 html,
 body {
@@ -1178,6 +1175,10 @@ body {
     font-size: 1.125rem;
     line-height: 2;
     letter-spacing: .01rem;
+}
+
+.post-content h3 {
+  padding-top: 1rem;
 }
 
 .post-content p .subheader,

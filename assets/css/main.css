@@ -1177,9 +1177,6 @@ body {
     letter-spacing: .01rem;
 }
 
-.post-content h3 {
-  padding-top: 1rem;
-}
 
 .post-content p .subheader,
 .post-content p .sub-subheader {
@@ -1277,6 +1274,7 @@ body {
 @media only screen and (min-width:37.5rem) {
     .post-content h3 {
         font-size: 1.563rem
+        padding-top: 1rem;
     }
 }
 

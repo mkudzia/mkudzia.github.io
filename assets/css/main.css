@@ -840,6 +840,10 @@ body.search-overlay:after {
     transform: translateX(-10px)
 }
 
+.cv h3 {
+  padding-top: 1rem;
+}
+
 html,
 body {
     height: 100%

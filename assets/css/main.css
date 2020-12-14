@@ -1283,6 +1283,10 @@ body {
     padding-left: 2.5rem
 }
 
+.post-content ul.nobullets {
+  list-style-type: none;
+}
+
 .post-content ul.post-list {
     padding: 0;
 }

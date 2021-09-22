@@ -1,19 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;1,300;1,400&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;1,300;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap");
 body {
   background-color: #8482b9;
   font-family: Montserrat, sans-serif;
 }
 
-h1.nameheader {
+h1 .nameheader {
   text-align: center;
   color: #08070d;
   font-family: Roboto, sans-serif;
-
 }
 
-ul.navmenu {
-  list-style: none;
+ul .navmenu {
+  text-align: center;
 }
+ul .navmenu li {
+  display: inline-block;
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -5,17 +5,4 @@ body {
   font-family: Montserrat, sans-serif;
 }
 
-h1.nameheader {
-  text-align: center;
-  color: #08070d;
-  font-family: Roboto, sans-serif;
-}
-
-ul.navmenu {
-  text-align: center;
-}
-ul.navmenu li {
-  display: inline-block;
-}
-
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=_defaults.css.map */

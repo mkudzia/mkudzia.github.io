@@ -5,16 +5,19 @@ body {
   font-family: Montserrat, sans-serif;
 }
 
-h1.nameheader {
-  text-align: center;
+h1 .nameheader {
+  text-align: left;
   color: #08070d;
   font-family: Roboto, sans-serif;
 }
 
-ul.navmenu {
+ul {
+  padding-inline-start: 0px;
+}
+ul .navmenu {
   text-align: center;
 }
-ul.navmenu li {
+ul .navmenu li {
   display: inline-block;
 }
 

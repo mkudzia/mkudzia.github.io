@@ -1,1 +1,19 @@
 @import '_defaults';
+
+
+h1 {
+  .nameheader {
+    text-align: center;
+    color: #08070d;
+    font-family: Roboto, sans-serif;
+  }
+}
+
+ul {
+  .navmenu {
+    text-align: center;
+
+    li {
+      display: inline-block;
+    }
+  }
